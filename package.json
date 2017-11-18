@@ -1,0 +1,19 @@
+{
+  "name": "hippo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nah"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anelook/hippo.git"
+  },
+  "author": "Olena Kutsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anelook/hippo/issues"
+  },
+  "homepage": "https://github.com/anelook/hippo#readme"
+}
